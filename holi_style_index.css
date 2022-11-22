@@ -1,0 +1,22 @@
+.bgimg{
+    background-image:url("https://media.istockphoto.com/id/1140180560/photo/colored-powder-explosion-on-black-background.jpg?s=612x612&w=0&k=20&c=gH_tj4MVWr0226qcq_uJ4nxfLTKG-7T29rtUklT4Obk=");
+    height: 100vh;
+    background-size: cover;
+}
+.layoutcard{
+    background-color:#cfa8fc;
+    height: 200px;
+    padding: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.heading{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: bold;
+}
+.paraline{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+
+}
